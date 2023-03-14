@@ -7,7 +7,7 @@
 
 - 📫 Você me acha no email **gustavodavel@gmail.com**
 
-- 📄 Aqui está o meu linkedin [www.linkedin.com/in/gustavogdavel](www.linkedin.com/in/gustavogdavel)
+- 📄 Aqui está o meu linkedin [www.linkedin.com/in/gustavogdavel](https://www.linkedin.com/in/gustavogdavel)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
