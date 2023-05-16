@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Gustavo Davel</h1>
 <h3 align="center">Apaixonado por ciência e analise de dados</h3>
 
-- 🌱 Atualmente estou aprendendo sobre **Python e estatística**
+- 🌱 Atualmente estou aprendendo sobre **Python e Cloud**
 
 - 💬 Me pergunte sobre **SQL, Python, Power BI**
 
